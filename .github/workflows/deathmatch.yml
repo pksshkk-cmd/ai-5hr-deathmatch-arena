@@ -1,0 +1,48 @@
+name: Ultra-Deep 5-Hour 20-VM AI Deathmatch
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  deathmatch_20vm_cluster:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        vm_id: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Arena Dependencies
+        run: pip install -q numpy datasets huggingface_hub requests
+
+      - name: Initial 200x Verification + 50/50 App & Data Deathmatch
+        env:
+          VM_ID: ${{ matrix.vm_id }}
+        run: |
+          python3 vm_deathmatch_worker.py
+          if [ "${{ matrix.vm_id }}" == "1" ]; then
+            git config --global user.name "AI-Deathmatch-Engine"
+            git config --global user.email "engine@deathmatch.local"
+            git add app_build/app.py distilled_data/winning_distilled_arena.jsonl
+            git commit -m "Sync 200x verified 1Cr 3D App & ELO Deathmatch Winners" || true
+            git push || true
+          fi
+
+      - name: Continuous 5-Hour Deep ELO Distillation & App Evolution Loop
+        env:
+          VM_ID: ${{ matrix.vm_id }}
+        run: |
+          START_TS=$(date +%s)
+          while [ $(( $(date +%s) - START_TS )) -lt 17400 ]; do
+            python3 vm_deathmatch_worker.py
+            sleep 60
+          done
