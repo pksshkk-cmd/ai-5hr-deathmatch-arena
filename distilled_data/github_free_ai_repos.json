@@ -1,0 +1,1694 @@
+[
+  {
+    "repo": "open-free-llm-api/awesome-freellm-apis",
+    "stars": 4795,
+    "desc": "134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.",
+    "topics": [
+      "free-llm-api",
+      "free-llm-models",
+      "free-llm-resources",
+      "free-models",
+      "freellm"
+    ]
+  },
+  {
+    "repo": "Amm1rr/WebAI-to-API",
+    "stars": 1402,
+    "desc": "Webchat to API",
+    "topics": [
+      "ai",
+      "api",
+      "bard",
+      "chatbot",
+      "chatgpt"
+    ]
+  },
+  {
+    "repo": "ShaikhWarsi/free-ai-tools",
+    "stars": 1039,
+    "desc": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-directory",
+      "ai-tools",
+      "ai-tools-directory"
+    ]
+  },
+  {
+    "repo": "RockChinQ/free-one-api",
+    "stars": 935,
+    "desc": "LLM \u9006\u5411\u5de5\u7a0b\u63a5\u53e3\u7ba1\u7406 | \u901a\u8fc7\u6807\u51c6 OpenAI API \u8bbf\u95ee ChatGPT / gpt4free / Bard / Claude / HuggingChat / \u901a\u4e49\u5343\u95ee \u7b49 AI \u7684\u7834\u89e3\u7248 || ChatGPT reverse engineering API management | Access all reverse engineered LL",
+    "topics": [
+      "bard",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "free"
+    ]
+  },
+  {
+    "repo": "nejib1/Free-LLM",
+    "stars": 824,
+    "desc": "Directory of 34+ free LLM & AI APIs \u2014 permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live ",
+    "topics": [
+      "chatgpt-alternative",
+      "claude-4-6-opus",
+      "claude-api",
+      "deepseek-free",
+      "free-apis"
+    ]
+  },
+  {
+    "repo": "for-the-zero/Free-LLM-Collection",
+    "stars": 676,
+    "desc": "\u514d\u8d39\u5927\u6a21\u578bAPI\u5408\u96c6 / Free LLM api Collection",
+    "topics": [
+      "ai",
+      "amazing",
+      "api",
+      "collection",
+      "free"
+    ]
+  },
+  {
+    "repo": "nirholas/cryptocurrency.cv",
+    "stars": 324,
+    "desc": "Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market conte",
+    "topics": [
+      "ai-agent",
+      "api",
+      "bitcoin",
+      "chatgpt",
+      "claude"
+    ]
+  },
+  {
+    "repo": "varun29ankuS/shodh-memory",
+    "stars": 316,
+    "desc": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use, forgets the irrelevant, and strengthens what matters. No cl",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "ai-memory",
+      "claude"
+    ]
+  },
+  {
+    "repo": "guihuashaoxiang/FreeLLM-API-KeyHub",
+    "stars": 278,
+    "desc": "\ud83c\udde8\ud83c\uddf3 \u6301\u7eed\u66f4\u65b0\u7684\u56fd\u5185\u514d\u8d39\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09API \u8d44\u6e90\u4e0e\u63a5\u5165\u6307\u5357\u6c47\u603b\uff08\u6db5\u76d6\u963f\u91cc\u767e\u70bc\u3001\u667a\u8c31\u7b49\u5e73\u53f0\uff09\u3002\u52a9\u529b\u5f00\u53d1\u8005\u4f4e\u6210\u672c\u8c03\u7528 AI \u80fd\u529b\u3002\u6b22\u8fce\u63d0\u4ea4 Issue \u4e0e PR \u5171\u5efa\uff01 | A curated list of free Large Language Model (LLM) APIs and providers in China.",
+    "topics": [
+      "aigc",
+      "awesome-list",
+      "china",
+      "developer-tools",
+      "free-llm-api"
+    ]
+  },
+  {
+    "repo": "ClawLabsAI/free-ai-models",
+    "stars": 243,
+    "desc": "Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best one.",
+    "topics": [
+      "ai",
+      "ai-api",
+      "ai-models",
+      "awesome-list",
+      "chatgpt-alternative"
+    ]
+  },
+  {
+    "repo": "laziobird/openclaw-rpa",
+    "stars": 227,
+    "desc": "AI Record browser, Excel, Word & API actions once \u2014 replay runs as a standalone script, no LLM needed. Faster, cheaper, and free from hallucinations vs. AI. \u5f55\u5236\u6d4f\u89c8\u5668\u3001Excel\u3001Word\u3001API \u64cd\u4f5c",
+    "topics": []
+  },
+  {
+    "repo": "abbosaliboev/free-ai-bible",
+    "stars": 195,
+    "desc": "\ud83e\udde0 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 \u2014 Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources.",
+    "topics": [
+      "ai-tools",
+      "api",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt-alternative"
+    ]
+  },
+  {
+    "repo": "ading2210/vercel-llm-api",
+    "stars": 189,
+    "desc": "A reverse engineered Python API wrapper for the Vercel AI Playground, which provides free access to many large language models without needing an account.",
+    "topics": [
+      "chatgpt",
+      "library",
+      "openai",
+      "python",
+      "vercel"
+    ]
+  },
+  {
+    "repo": "AIPMAndy/FreeToken",
+    "stars": 144,
+    "desc": "\u514d\u8d39 AI API \u989d\u5ea6\u5927\u5168\uff1a\u56fd\u5185\u5916\u5927\u6a21\u578b\u514d\u8d39\u989d\u5ea6\u3001\u805a\u5408\u5e73\u53f0\u4e0e\u5f00\u6e90\u9879\u76ee\uff5cFree LLM API credits and resources",
+    "topics": [
+      "ai-tools",
+      "awesome-list",
+      "chinese",
+      "claude",
+      "deepseek"
+    ]
+  },
+  {
+    "repo": "frankchu91/mindbase-llm-wiki",
+    "stars": 135,
+    "desc": "Karpathy's LLM Wiki idea as a product \u2014 an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on free local models (Ollama), no API",
+    "topics": [
+      "ai",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "llm-wiki"
+    ]
+  },
+  {
+    "repo": "ZhuJD-China/RainbowGPT",
+    "stars": 111,
+    "desc": "\ud83c\udf08RainbowGPT AI Agent & Dalle3 free & Stock Analysis & GPT-4 Free API & Private LLM Application & SQL Agent for Everyone",
+    "topics": [
+      "agent",
+      "gpt4"
+    ]
+  },
+  {
+    "repo": "doofzoff/SIMURG",
+    "stars": 102,
+    "desc": "Zero-leak online detection of LLM decoding corruption and Free Web Search for your AI agents! Catch repetition loops, language drift and garbage mid-stream, before the user sees a ",
+    "topics": [
+      "anomaly-detection",
+      "guardrails",
+      "hallucination-detection",
+      "inference",
+      "llm"
+    ]
+  },
+  {
+    "repo": "diegovelilla/FreeThinker",
+    "stars": 98,
+    "desc": "FreeThinker is an AI agent that uses free-of-charge API open source LLMs in order to automatize tasks. That meaning that you don't required pay-per-token API keys to run it.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "machine-learning",
+      "nlp"
+    ]
+  },
+  {
+    "repo": "mvalentsev/awesome-free-ai-coding",
+    "stars": 97,
+    "desc": "\ud83d\udce1 Legal free LLM APIs & coding agents \u2014 self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
+    "topics": [
+      "ai-coding",
+      "awesome",
+      "awesome-list",
+      "claude",
+      "claude-code"
+    ]
+  },
+  {
+    "repo": "teodorgross/awesome-ai",
+    "stars": 97,
+    "desc": "The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
+    "topics": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome"
+    ]
+  },
+  {
+    "repo": "SagarBiswas-MultiHAT/penetration-testing-roadmap",
+    "stars": 82,
+    "desc": "\ud83c\udfaf A structured 60-week penetration testing curriculum with 500+ free TryHackMe labs, OWASP Top 10 deep dives, tool mastery guides, and certification roadmaps. Three learning paths ",
+    "topics": [
+      "awesome-list",
+      "bug-bounty",
+      "burp-suite",
+      "ctf",
+      "cybersecurity"
+    ]
+  },
+  {
+    "repo": "apimartekm474/ai-api-proxy-free-tier",
+    "stars": 67,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-api-proxy",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "Mr-Abood/GPTFree",
+    "stars": 55,
+    "desc": "Free OpenAI-compatible API providing access to powerful AI models. No registration required, completely free to use. \ud83d\udd25",
+    "topics": [
+      "ai",
+      "api",
+      "chatgpt",
+      "claude",
+      "free"
+    ]
+  },
+  {
+    "repo": "apimartnxav/unified-ai-free-tier",
+    "stars": 50,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en",
+      "llm-api-gateway"
+    ]
+  },
+  {
+    "repo": "apimartqe37wd2s/ai-api-free-tier",
+    "stars": 48,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api",
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "phuetz/code-buddy",
+    "stars": 48,
+    "desc": "Local-first AI coding agent for the terminal. 64 LLM providers, 30 of them free or local $0, with auto-failover. 220+ tools, a peer-to-peer fleet, and a desktop app. No API bill re",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-coding-assistant",
+      "chatgpt",
+      "claude"
+    ]
+  },
+  {
+    "repo": "apimarty56p/ai-api-gateway-free-tier",
+    "stars": 45,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-api-gateway-free-tier",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "apimartntu3sj4aj/ai-api-gateway-free-tier-ko",
+    "stars": 45,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-api-gateway-free-tier",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-ko"
+    ]
+  },
+  {
+    "repo": "apimartop9jtsd/ai-api-gateway-free-tier",
+    "stars": 44,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en",
+      "llm-api-gateway"
+    ]
+  },
+  {
+    "repo": "freellms/awesome-freellm-apis",
+    "stars": 43,
+    "desc": "Awesome Free LLM APIs: discover free AI APIs, free LLM models, OpenAI-compatible endpoints, API keys, rate limits, and setup guides for Claude Code, Cursor, Codex, Open WebUI, and ",
+    "topics": []
+  },
+  {
+    "repo": "apimartntu3sj4aj/ai-api-gateway-free-tier-ja",
+    "stars": 43,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-api-gateway-free-tier",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-ja"
+    ]
+  },
+  {
+    "repo": "apimarto50bos9t/ai-api-free-tier",
+    "stars": 40,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api",
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "apimarts3l8pmoc/ai-gateway-free-tier",
+    "stars": 39,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "apimartrmiysqwsv/unified-ai-api-free-tier",
+    "stars": 38,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en",
+      "llm-api-gateway"
+    ]
+  },
+  {
+    "repo": "apimartlesjom/ai-gateway-free-tier",
+    "stars": 37,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "ai-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "nherx/free-llm-api-resources",
+    "stars": 33,
+    "desc": "\ud83e\udd16 Discover free API access and credits for various legitimate large language model services in one curated resource list.",
+    "topics": [
+      "ai",
+      "api",
+      "api-docs",
+      "api-key",
+      "api-resources"
+    ]
+  },
+  {
+    "repo": "compnew2006/MetaAI-Free-Hermes-Agent",
+    "stars": 32,
+    "desc": "\ud83d\ude80 Run Meta AI FREE with Hermes Agent \u2014 No API Keys, No Limits. Muse Spark LLM from Telegram, WhatsApp & Web.",
+    "topics": [
+      "ai-agent",
+      "ai-chatbot",
+      "free-ai",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "repo": "hamza01055/hotpulse",
+    "stars": 29,
+    "desc": "\ud83d\udd25 Self-hosted AI news radar. Collects sources, scores stories with a free local LLM (Ollama), groups them into events, ranks by source heat, and publishes multilingual daily briefi",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "fastapi",
+      "llm",
+      "mcp"
+    ]
+  },
+  {
+    "repo": "vorojar/VibeVoice",
+    "stars": 27,
+    "desc": "Open-source AI audiobook studio. A free, private alternative to ElevenLabs. 3 voice modes, per-sentence voice & emotion control, LLM smart character analysis, mixed-voice generatio",
+    "topics": [
+      "ai",
+      "audiobook",
+      "fastapi",
+      "local-ai",
+      "multilingual"
+    ]
+  },
+  {
+    "repo": "Parithosh-Varma/zen-proxy",
+    "stars": 24,
+    "desc": "zen-proxy is a local translation proxy that bridges Claude Code's Anthropic Messages API with OpenCode Zen's OpenAI\u2011compatible Chat Completions endpoint (https://opencode.ai/zen/v1",
+    "topics": [
+      "aiproxy",
+      "anthropic",
+      "api",
+      "claude-code",
+      "claudecode"
+    ]
+  },
+  {
+    "repo": "Krushnaapatil/free-llm-api-resources",
+    "stars": 22,
+    "desc": "Free LLM API Resources is a curated list of providers that offer free access or trial credits for API-based LLM usage. It is designed to help developers quickly find legitimate opt",
+    "topics": [
+      "cloudflare",
+      "gemini-api",
+      "groq-api",
+      "llm",
+      "nvidia-api"
+    ]
+  },
+  {
+    "repo": "zzzlip/langraph-AI-Accompany-Agent",
+    "stars": 21,
+    "desc": "Project: AI Roleplay Companion Key Features:  \u2705 Ad-Free & Free: No paywalls, no ads in chats  \ud83e\udde0 Persistent Memory: Solves companion AI's \"memory loss\" issue  \ud83d\udcf1 Social Features: Dia",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "llm"
+    ]
+  },
+  {
+    "repo": "RimunAce/respy-tech",
+    "stars": 21,
+    "desc": "Discover and compare LLM API providers and GPT alternatives for AI integration. Features a curated list of both free and paid services for chat interfaces, code generation, and oth",
+    "topics": [
+      "ai",
+      "api",
+      "chatgpt",
+      "chatgpt4-free",
+      "free-ai"
+    ]
+  },
+  {
+    "repo": "bradAGI/awesome-free-inference",
+    "stars": 16,
+    "desc": "The complete guide to free AI/LLM inference APIs \u2014 20+ providers, 81+ verified $0 models, rate limits, context windows, and code examples",
+    "topics": []
+  },
+  {
+    "repo": "dev-sufyaan/Nexlify",
+    "stars": 13,
+    "desc": "Unified API platform for free access to enterprise-grade AI models from Google, Groq, and OpenRouter. Industrial-ready integration with high-performance Models Inc. DeepSeek-R1, Qw",
+    "topics": [
+      "api",
+      "deepseek-r1",
+      "gemini-api",
+      "google",
+      "groq-api"
+    ]
+  },
+  {
+    "repo": "shihabshahrier/freelm",
+    "stars": 12,
+    "desc": "Free LLM API for Python & Node.js: a free-only, lightweight LiteLLM/OpenRouter alternative. One OpenAI-compatible client and local /v1 endpoint over Gemini, Groq, OpenRouter, Cloud",
+    "topics": [
+      "ai-gateway",
+      "failover",
+      "free-llm",
+      "free-llm-api",
+      "free-openai-api"
+    ]
+  },
+  {
+    "repo": "deshwalmahesh/freeflow",
+    "stars": 12,
+    "desc": "Free Flow automatically connects you to the BEST + FREE LLMs so you can stop juggling API keys, rate limits and kidney sales so you can sit back and practice AI wizardry",
+    "topics": []
+  },
+  {
+    "repo": "AstralXVoid/NoWreck",
+    "stars": 12,
+    "desc": " A CLI tool that verifies AI coding assistant claims against actual structural changes \u2014 catching hallucinated functions, fake calls, and missed modifications before they ship.",
+    "topics": [
+      "ai",
+      "ai-checker",
+      "ai-coding-assistant",
+      "ai-verification",
+      "api"
+    ]
+  },
+  {
+    "repo": "Drvivek34/Free-API-Bazaar",
+    "stars": 10,
+    "desc": "\ud83c\udd93 Free API Bazaar \u2014 a directory of free LLM & AI APIs with their real limits (formerly 'awesome free LLM API resources'). Part of the Mega AI Bazaar.",
+    "topics": [
+      "ai",
+      "awesome",
+      "free-api",
+      "free-llm-api",
+      "llm"
+    ]
+  },
+  {
+    "repo": "grey8-io/learn-ai-with-grey8",
+    "stars": 10,
+    "desc": "Free, self-driving AI bootcamp powered by a local LLM tutor. 15 projects across 12 phases \u2014 from Python basics to deploying AI agents. No cloud API keys required.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-bootcamp",
+      "ai-education",
+      "ai-tutor"
+    ]
+  },
+  {
+    "repo": "ruodou233/free-token-eggs",
+    "stars": 10,
+    "desc": "\u514d\u8d39\u989d\u5ea6\u627e\u534a\u5929\u3001\u9886\u4e00\u5708\uff0c\u6a21\u578b\u8fd8\u4e0d\u597d\u7528\uff1f\u5e2e\u4f60\u6311\u503c\u5f97\u9886\u7684\u514d\u8d39 AI token\u2014\u2014\u592a\u8822\u7684\u5927\u6a21\u578b\u4e0d\u6536\u5f55\uff0c\u5403\u70b9\u597d\u7684\u3002 Find worthwhile free LLM API credits and AI trials, with eligibility, expiry dates, and claim links checked.",
+    "topics": [
+      "ai-agent",
+      "bigmodel",
+      "china-ai",
+      "codex-skill",
+      "coze"
+    ]
+  },
+  {
+    "repo": "malda231125/free-llm-gateway",
+    "stars": 10,
+    "desc": "AI-routed gateway for free LLM APIs \u2014 reads your prompt and routes it to the best free model (Gemini, Groq, Cerebras, NVIDIA NIM, Mistral, OpenRouter, GitHub Models). OpenAI-compat",
+    "topics": [
+      "ai-gateway",
+      "ai-router",
+      "cerebras",
+      "free-llm-api",
+      "free-tier"
+    ]
+  },
+  {
+    "repo": "Arnav8452/Freeloader",
+    "stars": 10,
+    "desc": "Freeloader is an OpenAI-compatible AI gateway that maximizes free-tier LLM usage. It intelligently cascades requests across providers like Gemini, Groq, Cerebras, and Ollama. With ",
+    "topics": []
+  },
+  {
+    "repo": "ai-resource-radar/ai-resource-radar",
+    "stars": 9,
+    "desc": "Daily-verified free LLM APIs, AI token prices, and GPU compute deals with no-card filters, official evidence, and a local-first dashboard.",
+    "topics": [
+      "ai-api",
+      "ai-resources",
+      "free-llm-api",
+      "free-tier",
+      "gpu-compute"
+    ]
+  },
+  {
+    "repo": "amjadlle/zeroroute",
+    "stars": 9,
+    "desc": "Never pay for LLMs again. \u26a1 The $0/mo Multi-Cloud AI Gateway: pool free tiers across Groq, SambaNova, Mistral, Gemini, NVIDIA NIM, Cloudflare & Cohere into one unstoppable, zero-do",
+    "topics": [
+      "ai-agents",
+      "ai-gateway",
+      "cloudflare",
+      "cloudflare-ai",
+      "failover"
+    ]
+  },
+  {
+    "repo": "4pixeltechBR/awesome-ai-free-tiers",
+    "stars": 8,
+    "desc": "The definitive, 100% verified directory of AI Free Tiers, rate limits, and budget APIs. Zero hallucinated quotas, step-by-step API key guides, and multi-provider fallback architect",
+    "topics": [
+      "ai",
+      "api",
+      "awesome-list",
+      "deepseek",
+      "developer-tools"
+    ]
+  },
+  {
+    "repo": "codaaiteam/jev-ai",
+    "stars": 8,
+    "desc": "Jev AI quickstart & FAQ \u2014 TypeSafe AI's System One model. Try it free: jevtypesafeai.com",
+    "topics": [
+      "ai",
+      "api",
+      "jev",
+      "jev-ai",
+      "llm"
+    ]
+  },
+  {
+    "repo": "Cyberpradeep/ZeroKey",
+    "stars": 8,
+    "desc": "Free ChatGPT API & Free LLM API Key Alternative. 100% local drop-in OpenAI replacement supporting System Prompts, Tool Calling, and Think Mode for AI Agents.",
+    "topics": [
+      "ai-agents",
+      "ai-agents-automation",
+      "ai-agents-platform",
+      "free-api",
+      "free-api-key"
+    ]
+  },
+  {
+    "repo": "fhrouter/fhrouter",
+    "stars": 8,
+    "desc": "Free LLM API \u2014 frontier AI models (Grok, DeepSeek, GLM) free on every account. OpenAI-compatible AI gateway for Claude Code, Codex CLI, Gemini CLI & any OpenAI SDK.",
+    "topics": [
+      "ai-api",
+      "ai-gateway",
+      "api",
+      "chat-completions",
+      "claude-code"
+    ]
+  },
+  {
+    "repo": "ARUNAGIRINATHAN-K/zero-cost-ai-hub",
+    "stars": 8,
+    "desc": "\ud83d\ude80 A curated collection of production-ready AI applications built entirely on free-tier APIs and open-source models.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "contributions-welcome",
+      "free-tier"
+    ]
+  },
+  {
+    "repo": "Ghanyte/geo-seo-audit",
+    "stars": 8,
+    "desc": "Evidence-based GEO audit toolkit for Claude Code. Per-LLM visibility (ChatGPT, Gemini, Perplexity, Claude, Le Chat), JSON-LD validation, AI crawler taxonomy, RRF measurement. Free,",
+    "topics": [
+      "ai-search",
+      "audit",
+      "claude-code",
+      "geo",
+      "llm"
+    ]
+  },
+  {
+    "repo": "cyberytti/OllamaKaggle",
+    "stars": 8,
+    "desc": "Empower AI development with free GPU access! This repo offers a Kaggle notebook using 2 Tesla T4 GPUs to generate an ngrok URL. Run LLMs via Ollama or OpenAI API schema\u2014no high-end",
+    "topics": []
+  },
+  {
+    "repo": "mrrfv/Discord-Clyde-API",
+    "stars": 7,
+    "desc": "A basic API for Discord's Clyde AI bot, can be used as a free ChatGPT API.",
+    "topics": [
+      "ai",
+      "api",
+      "chatgpt",
+      "chatgpt-api",
+      "discord"
+    ]
+  },
+  {
+    "repo": "pnnnhan99/awesome-free-ai-apis",
+    "stars": 7,
+    "desc": "A curated collection of free & free-tier AI APIs for developers, vibe coding, AI apps, and modern software development.",
+    "topics": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt-alternative"
+    ]
+  },
+  {
+    "repo": "platoba/free-ai-guide",
+    "stars": 7,
+    "desc": "\ud83d\udc11 \u514d\u8d39 AI \u8d44\u6e90\u5bfc\u822a \u00b7 Free AI Resources Guide \u2014 42 \u5bb6\u5382\u5546\u514d\u8d39\u989d\u5ea6\u5b9e\u6d4b\u6c47\u603b by yangmao.ai",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "api",
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "repo": "V-Groups-Foundations/freetoken",
+    "stars": 7,
+    "desc": "\ud83c\udd93 Free AI tokens by V Groups \u2014 pool every free LLM API (Gemini, Groq, OpenRouter, NVIDIA, Cohere, GitHub Models) into one chat, one OpenAI-compatible API and V-Run, a free Cursor /",
+    "topics": [
+      "ai-code-editor",
+      "ai-coding-agent",
+      "ai-gateway",
+      "claude-code",
+      "claude-code-alternative"
+    ]
+  },
+  {
+    "repo": "NICTOLabs/NICTO-coder",
+    "stars": 7,
+    "desc": "NICTO CODE \u2014 The AI coding agent that works beyond the hype. Multi-provider LLM support, 150+ built-in tools, terminal-first design with 6 operating modes. Free tier available \u2014 br",
+    "topics": [
+      "ai-coding-agent",
+      "cli",
+      "code-assistant",
+      "coding-assistant",
+      "developer-tools"
+    ]
+  },
+  {
+    "repo": "dotnetpower/infomesh",
+    "stars": 7,
+    "desc": "\ud83d\udd78\ufe0f Fully decentralized P2P search engine for LLMs \u2014 no API key, no billing, forever free. MCP-native web search via Kademlia DHT + libp2p + FTS5. Production stable \u2705 \u2192 pip install ",
+    "topics": [
+      "ai",
+      "crawler",
+      "decentralized",
+      "free",
+      "free-web-search"
+    ]
+  },
+  {
+    "repo": "roabraham/ashley",
+    "stars": 7,
+    "desc": "Ashley is an all-in-one, single-click local AI assistant. It bundles an llama.cpp LLM inference engine, a Symfony/PHP web chatbot interface, a CEF-based web client (PHP Desktop), a",
+    "topics": []
+  },
+  {
+    "repo": "viratk-dev/free-ai-api-directory",
+    "stars": 6,
+    "desc": "\u26a1 100+ Verified Free AI APIs (2026) \u2014 Permanent Free Tiers, Signup Credits & BYOK Routers for Cursor & Claude Code. Zero Dead Links.",
+    "topics": [
+      "ai",
+      "api",
+      "claude-code",
+      "cursor",
+      "deepseek"
+    ]
+  },
+  {
+    "repo": "devAdityaa/GPTs4U",
+    "stars": 6,
+    "desc": "Access GPT 4 and other LLM models through API totally for Free. Integrate with any code and let your creativity go wild with AI LLMs!",
+    "topics": []
+  },
+  {
+    "repo": "peterhadorn/offload-mcp",
+    "stars": 6,
+    "desc": "MCP server that offloads routine AI coding tasks to free LLM APIs",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cost-optimization",
+      "llm",
+      "mcp"
+    ]
+  },
+  {
+    "repo": "khalidsaidi/agentability",
+    "stars": 6,
+    "desc": "Free public AI-readiness audits in ~60s. Get a score, ranked fixes, and copy-paste snippets.",
+    "topics": [
+      "ai",
+      "api",
+      "auditing",
+      "developer-tools",
+      "docs"
+    ]
+  },
+  {
+    "repo": "crabfeather/PaperLens-AI",
+    "stars": 6,
+    "desc": "PaperLens AI is a LLM-powered Python tool for summarizing and applying topic modeling on a large number of research paper PDFs completely for free using the Groq API.",
+    "topics": [
+      "ai",
+      "groq",
+      "pdf",
+      "python",
+      "research-paper"
+    ]
+  },
+  {
+    "repo": "DrGekoz/Split-Node-YouTube",
+    "stars": 6,
+    "desc": "Split Node - Local-First YouTube Documentary Content Pipeline w/ API support. RSS in, 25-min cinematic documentary out: runs free on an 8GB GPU (images+LLM+voice+music+render), wit",
+    "topics": []
+  },
+  {
+    "repo": "freellms/awesome-free-ai-agents",
+    "stars": 5,
+    "desc": "Awesome free AI agents \u2014 open-source autonomous agents, coding agents & LLM agent frameworks on free APIs. Configs for Claude Code, Cursor, Codex, Aider, Cline, OpenHuman. Multi-ag",
+    "topics": []
+  },
+  {
+    "repo": "Srikanth-AD/thesis-engine",
+    "stars": 5,
+    "desc": "AI-powered investment thesis monitor. 14 data layers, LLM synthesis, email alerts. All free APIs except pennies for the LLM.",
+    "topics": [
+      "email-alerts",
+      "portfolio-tracker",
+      "python",
+      "sentimen",
+      "stock-market-analysis"
+    ]
+  },
+  {
+    "repo": "mrshivamgiri/free-ai-apis",
+    "stars": 5,
+    "desc": "A curated list of free AI APIs, LLM providers, embeddings, image generation APIs, speech APIs, and developer resources.",
+    "topics": []
+  },
+  {
+    "repo": "HughPython/free-llm-api-cn",
+    "stars": 5,
+    "desc": "\u767d\u5ad6\u514d\u8d39\u5927\u6a21\u578b API \u5408\u96c6\uff5c10 \u4e2a\u514d\u9b54\u6cd5\u3001\u514d\u7ed1\u5361\u3001OpenAI \u517c\u5bb9\u7684\u516c\u76ca\u63a5\u53e3\uff08DeepSeek / Qwen / GLM / Gemini / \u5546\u6c64\uff09\uff0c\u542b Base URL\u3001\u6bcf\u65e5\u989d\u5ea6\u4e0e\u5b9e\u6d4b\u8bc4\u4ef7\u3002Free LLM API list \u2014 no VPN, no credit card required.",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "free"
+    ]
+  },
+  {
+    "repo": "Commercialmessageaeciospore1727/free-ai-tools",
+    "stars": 5,
+    "desc": "Build AI applications with this curated collection of free LLM APIs, coding copilots, and infrastructure tools.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-top-tools",
+      "awesome"
+    ]
+  },
+  {
+    "repo": "zeozeozeo/aihorde-go",
+    "stars": 5,
+    "desc": "A Go package to interact with AI-Horde's free generative AI APIs.",
+    "topics": [
+      "ai-api",
+      "aihorde",
+      "api",
+      "api-wrapper",
+      "genai"
+    ]
+  },
+  {
+    "repo": "eager-flipstudio/Flip-LLM",
+    "stars": 5,
+    "desc": "\u26a1 Flip LLM API \u2014 Access 35+ AI models (Mistral, Llama 4, DeepSeek, GLM, Qwen 3, Kimi K2, Phi 3, Minimax) through a single unified REST API. Features session memory via Firebase RTD",
+    "topics": []
+  },
+  {
+    "repo": "alexjm19/free-llm-api-provider",
+    "stars": 4,
+    "desc": "Free AI APIs die mid-session. This doesn't. Local proxy with auto-failover across 238 models from 25+ free providers \u2014 works with Cursor, VS Code, OpenCode and any OpenAI client. Z",
+    "topics": []
+  },
+  {
+    "repo": "kax168/awesome-free-ai-apis",
+    "stars": 4,
+    "desc": "\ud83e\udd16 A curated list of genuinely free AI APIs \u2014 no credit card, no trial expiry. LLMs, image gen, speech, embeddings & more. Updated Feb 2026.",
+    "topics": []
+  },
+  {
+    "repo": "bejo6/llm-apikey-manager",
+    "stars": 4,
+    "desc": "Manage API keys for AI/LLM providers (OpenAI, Anthropic, Google, etc.) with free models catalog. Flask + SQLite. Local use only.",
+    "topics": []
+  },
+  {
+    "repo": "georgevpopa/Chatty-FreeLLM-AllHandsOnDeck",
+    "stars": 4,
+    "desc": "Free LLM aggregator - access multiple AI models from one interface. No API costs.",
+    "topics": [
+      "aggregator",
+      "ai",
+      "aider",
+      "chatbot",
+      "free"
+    ]
+  },
+  {
+    "repo": "simranjeet97/FreeBirdsCrew_WhatsApp_AI_Bot",
+    "stars": 4,
+    "desc": "An intelligent WhatsApp automation bot powered by Node.js, whatsapp-web.js, and the Gemini AI API. It features an LLM-driven knowledge base for context-aware auto-replies, dynamic ",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "andrej-karpathy",
+      "automation",
+      "bot-dashboard"
+    ]
+  },
+  {
+    "repo": "as7111771-create/free-coding-agent",
+    "stars": 4,
+    "desc": "\ud83e\udd16 Free open-source coding agent \u2014 like Claude Code, but powered by Hugging Face's free Inference API. No paid keys, just pure AI. Built with Python, Gradio, and LLMs.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "cli-tool"
+    ]
+  },
+  {
+    "repo": "keshavgaming230/YashvirGaming-PrivateAI",
+    "stars": 4,
+    "desc": "A cyberpunk-themed PySide6 desktop AI assistant powered by OpenRouter Free Tier APIs. Features drag-and-drop code/text file analysis, styled Markdown code blocks, and dynamic free ",
+    "topics": []
+  },
+  {
+    "repo": "Sharann-del/API-Keychain",
+    "stars": 4,
+    "desc": "One unified API key for every free-tier AI provider \u2014 a self-hosted LLM gateway with smart failover, and a dashboard for managing everything, including providers, API keys, routing",
+    "topics": [
+      "ai-gateway",
+      "api-management",
+      "fallback",
+      "key-rotation",
+      "llm-gateway"
+    ]
+  },
+  {
+    "repo": "RDrahul123/LLMs",
+    "stars": 4,
+    "desc": "This is a free, open-source course on Large Language Models (LLMs) \u2014 designed for everyone from complete beginners to developers who want to build production-grade AI apps.",
+    "topics": [
+      "api",
+      "deep-learning",
+      "fine-tuning",
+      "llm",
+      "machine-learning"
+    ]
+  },
+  {
+    "repo": "pathetic777/nocturne-live2d-companion",
+    "stars": 4,
+    "desc": "\u2728 Nocturne & Button-Eyed Doll \u2014 Interactive 2D Live / AI Desktop Companion (Free Trial Lite + LLM API & TTS Lip-Sync, EN/\u65e5\u672c\u8a9e)",
+    "topics": [
+      "ai-companion",
+      "aituber",
+      "desktop-companion",
+      "desktop-pet",
+      "live2d"
+    ]
+  },
+  {
+    "repo": "dhannu535/puter-api-proxy",
+    "stars": 4,
+    "desc": "\u26a1 OpenAI-compatible proxy with smart routing across 146 free AI models. Zero failures, auto-fallback, admin dashboard, Docker ready. Powered by Puter.js.",
+    "topics": [
+      "ai",
+      "ai-models",
+      "api",
+      "chatgpt",
+      "claude"
+    ]
+  },
+  {
+    "repo": "MilanSirko/Open-LLM",
+    "stars": 4,
+    "desc": "One single, OpenAI-compatible API endpoint giving you access to 100+ free models across multiple top providers!  Features an intelligent AI router that automatically picks the best",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-model",
+      "ai-tools",
+      "api"
+    ]
+  },
+  {
+    "repo": "dilsonjlrjr/castor-prompt-builder",
+    "stars": 4,
+    "desc": "CASTOR Builder is a wizard-driven prompt engineering tool that turns a free-text task description into a structured, semantically rich LLM prompt \u2014 entirely offline, no AI API call",
+    "topics": []
+  },
+  {
+    "repo": "mqzpt/hackademics",
+    "stars": 4,
+    "desc": "A free and open-source tool that generates Anki decks given most input files (txt, pptx, docx, pdf, mp3) using AI.  Utilizes Cohere's LLM API services and deployed with Render.",
+    "topics": []
+  },
+  {
+    "repo": "SuperWang-AI/woolgate",
+    "stars": 4,
+    "desc": "Self-hosted AI gateway: aggregate free LLM APIs (\u56fd\u5185\u514d\u8d39\u5927\u6a21\u578b) behind one OpenAI-compatible endpoint, smart cost-saving routing. \u81ea\u6258\u7ba1 AI \u805a\u5408\u7f51\u5173\uff1a\u4e00\u4e2a Key \u805a\u5408\u514d\u8d39\u5927\u6a21\u578b API\uff0c\u667a\u80fd\u8def\u7531\u7701\u94b1\u3002",
+    "topics": [
+      "ai-cost-saving",
+      "ai-gateway",
+      "docker",
+      "free-llm-api",
+      "llm-aggregator"
+    ]
+  },
+  {
+    "repo": "D-artisan/dartisan-ai-webscraper",
+    "stars": 4,
+    "desc": "An AI-powered web scraper application that leverages free LLM providers to perform intelligent web scraping based on user prompts. The system allows users to input scraping instruc",
+    "topics": []
+  },
+  {
+    "repo": "scthornton/vulnerable-chat",
+    "stars": 4,
+    "desc": "\ud83d\udea8 Intentionally vulnerable AI chatbot for Prisma AIRS Red Teaming testing. Docker-containerized Flask app with OWASP Top 10 LLM   vulnerabilities (prompt injection, data leakage, j",
+    "topics": [
+      "chatbot-application",
+      "llm",
+      "prisma-airs",
+      "red-teaming",
+      "vulnerable-application"
+    ]
+  },
+  {
+    "repo": "murai1998/LocalLLM",
+    "stars": 4,
+    "desc": "A full-featured, completely free AI assistant stack that runs a state-of-the-art 12B-parameter LLM entirely on your own hardware \u2014 an NVIDIA GPU workstation or an Apple Silicon Mac",
+    "topics": []
+  },
+  {
+    "repo": "justlovemaki/AIClient2API",
+    "stars": 8929,
+    "desc": "Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conver",
+    "topics": [
+      "aicoding",
+      "antigravity",
+      "claude",
+      "codex",
+      "free"
+    ]
+  },
+  {
+    "repo": "lingo34/sambanova-ai-proxy",
+    "stars": 39,
+    "desc": "[Not working now] A free llama3.1 405B API server that routes any OpenAI compatible chat API request to Sambanova AI. Deploy with Cloudflare Worker, Docker, or NodeJS",
+    "topics": [
+      "ai",
+      "cloudflare-worker",
+      "cloudflare-workers",
+      "docker",
+      "docker-compose"
+    ]
+  },
+  {
+    "repo": "apimartfbsu4lby/api-router-free-tier",
+    "stars": 35,
+    "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-g",
+    "topics": [
+      "ai-api-gateway",
+      "api-aggregator",
+      "api-pricing",
+      "api-router",
+      "apimart-en"
+    ]
+  },
+  {
+    "repo": "akumaburn/RobinLLM",
+    "stars": 23,
+    "desc": "Robin LLM is a Java-based service that crawls OpenRouter's website for free LLM models, continuously tests their performance, and provides an OpenAI-compatible API that automatical",
+    "topics": []
+  },
+  {
+    "repo": "thusinh1969/BrighTO_Router",
+    "stars": 22,
+    "desc": "BrighTO LLM Router: free open-source, ultra-fast Rust LLM gateway/router and LiteLLM/Bifrost alternative with OpenAI + Anthropic APIs, Claude CLI bridge for OpenAI-compatible model",
+    "topics": [
+      "ai-gateway",
+      "ai-router",
+      "anthropic",
+      "claude-cli",
+      "claude-code"
+    ]
+  },
+  {
+    "repo": "setan21/free-llm-api-router",
+    "stars": 13,
+    "desc": "\ud83d\ude80 Route OpenAI-compatible requests across multiple free LLM providers with automatic failover. Zero cost.",
+    "topics": [
+      "api-router",
+      "fastapi",
+      "free-api",
+      "llm",
+      "openai-compatible"
+    ]
+  },
+  {
+    "repo": "nabinkhadka/free-llm-api",
+    "stars": 11,
+    "desc": "Lightweight Python router for free LLM APIs with automatic provider rotation, failover, rate-limit cooldowns, weighted round-robin, latency tracking, and hot-reloadable YAML config",
+    "topics": []
+  },
+  {
+    "repo": "Pr0fess0rOP/free-llm-router",
+    "stars": 10,
+    "desc": "Open-source, self-hosted BYOK LLM API router with an OpenAI-compatible interface, multi-provider failover, model aliases, circuit breakers, usage analytics, and secure key manageme",
+    "topics": [
+      "ai",
+      "api-gateway",
+      "byok",
+      "circuit-breaker",
+      "failover"
+    ]
+  },
+  {
+    "repo": "r2hu1/freerouter",
+    "stars": 8,
+    "desc": "AI gateway that routes requests across free AI providers through a single OpenAI-compatible API. Integrate once, let FreeRouter handle provider selection, failover, rate limits, an",
+    "topics": [
+      "ai-gateway",
+      "ai-router",
+      "ai-sdk",
+      "ai-sdk-provider",
+      "free-ai"
+    ]
+  },
+  {
+    "repo": "akasakaid/Freebuff-router",
+    "stars": 5,
+    "desc": "OpenAI-compatible API gateway for the Freebuff/Codebuff provider. ",
+    "topics": [
+      "ai",
+      "api-gateway",
+      "chat-completions",
+      "codebuff",
+      "fastap"
+    ]
+  },
+  {
+    "repo": "shaik-shahansha/llmux",
+    "stars": 5,
+    "desc": "All Free AI Provider. One Unified API. LLMux unifies 20+ free-tier providers \u2014 text, image, audio, video \u2014 behind a single OpenAI-compatible gateway. Automatic fallback, smart rout",
+    "topics": [
+      "freeai",
+      "genai",
+      "llm",
+      "llmapis"
+    ]
+  },
+  {
+    "repo": "0xfunboy/GemRouterFE",
+    "stars": 4,
+    "desc": "GemRouter is an OpenAI-compatible backend router for Gemini API, designed to maximize free-tier through multi-key routing, local quota tracking, fallback, and error handling. It al",
+    "topics": [
+      "cost",
+      "inference",
+      "inference-api",
+      "llmtools",
+      "tokens"
+    ]
+  },
+  {
+    "repo": "sass-maker/free-ai",
+    "stars": 3,
+    "desc": "OpenAI-compatible gateway across free-tier model providers with health-aware routing on Cloudflare Workers.",
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "ai-inference",
+      "api",
+      "api-gateway"
+    ]
+  },
+  {
+    "repo": "PryxIntel/free-llm-api",
+    "stars": 2,
+    "desc": "\u26a1 Free LLM API Gateway: Aggregate 34+ free-tier AI providers & 600+ models into one unified OpenAI-compatible /v1 endpoint with auto-routing, failover & AES-256 encryption.",
+    "topics": []
+  },
+  {
+    "repo": "yuzu-octopus/freebuff2api",
+    "stars": 2,
+    "desc": "Freebuff LLM router - a local OpenAI-compatible /v1 server that proxies free-mode Freebuff models (DeepSeek V4 Flash, MiMo, etc.) for any agent client.",
+    "topics": []
+  },
+  {
+    "repo": "alienz-dev/llm-router",
+    "stars": 2,
+    "desc": "Free-tier LLM gateway \u2014 aggregates 11 providers behind a single OpenAI-compatible API with availability-aware smart routing, quota management, and circuit breakers",
+    "topics": []
+  },
+  {
+    "repo": "marbad1994/makkorch-model-router",
+    "stars": 2,
+    "desc": "orchmakk-model-router provides a single OpenAI-compatible API endpoint and routes coding requests to the best configured model for the task. It is built to balance quality, speed, ",
+    "topics": []
+  },
+  {
+    "repo": "xX-VyrnCore-Xx/PourGateLLM",
+    "stars": 2,
+    "desc": "Self-hosted gateway that unifies free LLM tiers behind one OpenAI-compatible API: smart failover, prompt-complexity routing, per-client tokens, encrypted keys and an open model reg",
+    "topics": [
+      "ai-gateway",
+      "free-tier",
+      "hono",
+      "llm",
+      "llm-gateway"
+    ]
+  },
+  {
+    "repo": "aceangel3k/GLM-Token-Saver",
+    "stars": 2,
+    "desc": "Smart routing API server for GLM models with speculative decoding. Routes simple tasks to local model (free) and complex tasks to Cerebras. Automatic rate limit fallback and cost t",
+    "topics": []
+  },
+  {
+    "repo": "Surya17155/omnibridge",
+    "stars": 2,
+    "desc": "OmniBridge is a high-performance API proxy layer that consolidates fragmented free-tier keys from multiple AI providers \u2014 Gemini, Groq, DeepSeek, GLM, Kimi, Mistral \u2014 into a single",
+    "topics": [
+      "api",
+      "api-client",
+      "api-gateway",
+      "api-wrapper",
+      "auto-switch-providers"
+    ]
+  },
+  {
+    "repo": "beepboop2025/free-llm-router",
+    "stars": 1,
+    "desc": "Failover router for free-tier OpenAI-compatible providers, with Python, TypeScript, and Node implementations.",
+    "topics": [
+      "api",
+      "failover",
+      "llm",
+      "nodejs",
+      "openai-compatible"
+    ]
+  },
+  {
+    "repo": "bengoan1526/freellm-router",
+    "stars": 1,
+    "desc": "Single OpenAI-compatible API endpoint routing across free LLM providers, with live model metadata scraped from freellm.net",
+    "topics": []
+  },
+  {
+    "repo": "IMROVOID/Freebuff2API",
+    "stars": 1,
+    "desc": "High-performance, dual-runtime OpenAI-compatible API router and OAuth proxy for Freebuff. Supports Node.js CLI daemon and Cloudflare Workers with multi-account pooling.",
+    "topics": [
+      "agent",
+      "ai-gateway",
+      "cloudflare-workers",
+      "codebuff",
+      "deepseek"
+    ]
+  },
+  {
+    "repo": "beita123852/freeroute",
+    "stars": 1,
+    "desc": "Free LLM API aggregation proxy - OpenAI compatible interface with intelligent routing and auto-fallback",
+    "topics": []
+  },
+  {
+    "repo": "afi-lambda/free-llm-api",
+    "stars": 1,
+    "desc": "Self-updating pool of free LLM APIs ranked by SWE-bench, with liveness probes, fallback routing, and an OpenAI-compatible proxy",
+    "topics": []
+  },
+  {
+    "repo": "sarthakjain004/llm-router",
+    "stars": 1,
+    "desc": "Self-hosted LiteLLM proxy: one OpenAI-compatible endpoint with automatic failover across free-tier LLM APIs (Gemini, Groq, Cerebras, OpenRouter, NVIDIA NIM). ARM64/Docker.",
+    "topics": []
+  },
+  {
+    "repo": "XidaoApi/XidaoApi",
+    "stars": 1,
+    "desc": "OpenAI-compatible AI API gateway \u2014 100+ models, smart routing, failover. Claude, GPT, Gemini, DeepSeek, Qwen, Mistral. Free $10 credit.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-gateway",
+      "api-gateway",
+      "claude"
+    ]
+  },
+  {
+    "repo": "AdSyscoo/HyperRouter",
+    "stars": 1,
+    "desc": "HyperRouter is a production-grade Universal AI Router that intelligently routes requests across 70+ free and open Large Language Models through a single OpenAI-compatible API.",
+    "topics": []
+  },
+  {
+    "repo": "lxg2it/modelrouter-core",
+    "stars": 1,
+    "desc": "Open-source AI model router \u2014 cheapest access to Claude Opus, GPT-5, Gemini with tiered fallback routing. Free tier, $1 paid tier, 0% Anthropic markup. OpenAI-compatible API.",
+    "topics": [
+      "ai-gateway",
+      "ai-router",
+      "claude",
+      "gemini",
+      "gpt"
+    ]
+  },
+  {
+    "repo": "habibbrox2/MuktoDwar",
+    "stars": 1,
+    "desc": "MuktoDwar (\u09ae\u09c1\u0995\u09cd\u09a4\u09a6\u09cd\u09ac\u09be\u09b0, free gate) \u2014 Windows-\u098f\u09b0 \u099c\u09a8\u09cd\u09af free-only, local, OpenAI-compatible AI gateway: chat, embeddings, images \u0993 Responses API, DPAPI-encrypted keys, hybrid routing",
+    "topics": [
+      "ai-gateway",
+      "dpapi",
+      "embeddings",
+      "free-tier",
+      "llm-gateway"
+    ]
+  },
+  {
+    "repo": "leolittig/Alleo",
+    "stars": 1,
+    "desc": "An all-in-one llm router designed to route incoming requests across free-tier cloud llm services. An OpenAI-compatible Python MITM REST API that forwards requests to external provi",
+    "topics": []
+  },
+  {
+    "repo": "Foxic05/foxroute",
+    "stars": 1,
+    "desc": "OpenAI-compatible gateway over ~30 free AI web sessions and APIs \u2014 ChatGPT, Claude, Gemini, DeepSeek, Grok and more, with auto-routing and fallback.",
+    "topics": [
+      "ai",
+      "api-gateway",
+      "chatgpt",
+      "claude",
+      "deepseek"
+    ]
+  },
+  {
+    "repo": "FenkoHQ/FrugalAI",
+    "stars": 1,
+    "desc": "An intelligent LLM proxy that automatically routes requests to the best free model available on OpenRouter. Provides both OpenAI and Anthropic compatible API endpoints.",
+    "topics": []
+  },
+  {
+    "repo": "alijutt-xd/llm",
+    "stars": 1,
+    "desc": "OpenAI-compatible API with smart routing, failover, and encrypted keys for multiple LLM providers. 7.4B tokens/month. 34+ free providers. All behind one /v1 endpoint.",
+    "topics": []
+  },
+  {
+    "repo": "DhruvProgrammer/aether-code",
+    "stars": 1,
+    "desc": "aether is a free, open-source AI coding agent for any OpenAI-compatible API. Two-LLM routing, persistent memory, multi-agent verification, visual review loop. Single 5MB Windows in",
+    "topics": []
+  },
+  {
+    "repo": "srthorat/opencode-proxy-for-claude-code",
+    "stars": 1,
+    "desc": "An Anthropic Messages API compatible proxy designed for Claude Code. It translates Claude's native API requests to OpenAI chat completions, routes requests automatically between fr",
+    "topics": [
+      "ai-agents",
+      "ai-coding-assistant",
+      "anthropic-api",
+      "anthropic-api-compatible",
+      "developer-tools"
+    ]
+  },
+  {
+    "repo": "S-V-J/myclaude",
+    "stars": 1,
+    "desc": "Run Anthropic's Claude Code completely free on Linux! This lightweight API proxy translates Claude Code requests into OpenAI-compatible formats, routing them directly to NVIDIA NIM",
+    "topics": []
+  },
+  {
+    "repo": "SamuelMaiko/DeepRouter",
+    "stars": 0,
+    "desc": "Deepseek Free OpenAI compatible APIs",
+    "topics": [
+      "deepseek",
+      "openai-sdk",
+      "render"
+    ]
+  },
+  {
+    "repo": "fast1188/free-ai-router",
+    "stars": 0,
+    "desc": "Multi-AI fallback router + OpenAI-compatible server. SillyTavern & LM Studio friendly.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "fallback",
+      "gemini"
+    ]
+  },
+  {
+    "repo": "Tenormusica2024/zerocost-lp",
+    "stars": 0,
+    "desc": "Landing page for zerocost-router \u2014 free OpenAI-compatible LLM router",
+    "topics": [
+      "api",
+      "landing-page",
+      "llm",
+      "nextjs",
+      "saas"
+    ]
+  },
+  {
+    "repo": "kayonarah/freeapijust",
+    "stars": 0,
+    "desc": "OpenAI-compatible free-tier LLM API gateway with automatic fallback routing.",
+    "topics": []
+  },
+  {
+    "repo": "hakosworld-blip/Free-AI-Router-Directory",
+    "stars": 0,
+    "desc": "An original, source-attributed directory of hosted AI gateways, free-tier inference APIs, and self-hosted OpenAI-compatible routers.",
+    "topics": []
+  },
+  {
+    "repo": "Haadesx/freebuff-gateway",
+    "stars": 0,
+    "desc": "Free OpenAI-compatible API gateway \u2014 route requests to free LLM providers. Save thousands on API costs.",
+    "topics": []
+  },
+  {
+    "repo": "FruityMaxine/freellm-gateway",
+    "stars": 0,
+    "desc": "Self-hosted, OpenAI-compatible LLM gateway: policy-driven multi-provider routing (9-dim scoring) + OpenAI-compatible API + full operations console (cost, alerting, multi-tenancy, o",
+    "topics": []
+  },
+  {
+    "repo": "RSokolowskyDev/ai-router",
+    "stars": 0,
+    "desc": "OpenAI-compatible API gateway routing across free AI providers (Groq, Cerebras, Gemini, SambaNova) with local llama.cpp fallback",
+    "topics": []
+  },
+  {
+    "repo": "Nwokike/lm-router",
+    "stars": 0,
+    "desc": "LM Router: chat with free models through your own local gateway. Flet app, OpenAI compatible, no API key.",
+    "topics": []
+  },
+  {
+    "repo": "waseemnasir2k26/free-llm-router",
+    "stars": 0,
+    "desc": "Zero-dependency OpenAI-compatible proxy that chains free-tier LLM APIs (Groq, Gemini, OpenRouter, Cerebras, Mistral) with quota tracking and 429 failover. Keeps n8n and agents aliv",
+    "topics": [
+      "ai-agents",
+      "cerebras",
+      "failover",
+      "free-llm",
+      "gemini"
+    ]
+  },
+  {
+    "repo": "lsmmvie-max/omni-media-route",
+    "stars": 0,
+    "desc": "Open-source image generation API router with automatic failover across free provider tiers. OpenAI-compatible.",
+    "topics": []
+  },
+  {
+    "repo": "Vaibhavs25/free-ai-apis-llm",
+    "stars": 0,
+    "desc": "The ultimate list of free AI APIs and LLM APIs \u2014 verified providers, free models, rate limits, OpenAI-compatible APIs, and AI routers.",
+    "topics": []
+  },
+  {
+    "repo": "AINative-Studio/ainative-openai",
+    "stars": 0,
+    "desc": "Drop-in replacement for the openai npm package \u2014 routes to AINative's free OpenAI-compatible API. Free Llama 3.3 70B, Qwen, DeepSeek models with zero config.",
+    "topics": []
+  },
+  {
+    "repo": "Yeri0101/free-llm-gateway",
+    "stars": 0,
+    "desc": "Self-hosted AI API gateway with smart routing, round-robin load balancing, automatic failover and semantic caching \u2014 OpenAI-compatible.",
+    "topics": []
+  },
+  {
+    "repo": "MrOwaisAbdullah/gemini-free-router",
+    "stars": 0,
+    "desc": "Squeeze 100% out of Gemini's free tier \u2014 an OpenAI-compatible proxy that schedules per-model RPM/RPD/TPM quotas preemptively on a single API key. 429 forensics, quality-ranked fall",
+    "topics": [
+      "docker",
+      "free-tier",
+      "gemini",
+      "gemini-ai",
+      "gemini-api"
+    ]
+  },
+  {
+    "repo": "paarthjawalkar/freeroute",
+    "stars": 0,
+    "desc": "Self-hosted free-tier LLM router: one OpenAI-compatible endpoint over your own free API keys, with automatic failover. Python stdlib only - runs on Termux, Colab, anywhere.",
+    "topics": [
+      "api-router",
+      "failover",
+      "free",
+      "llm",
+      "llm-router"
+    ]
+  },
+  {
+    "repo": "enstw/freeloader",
+    "stars": 0,
+    "desc": "Unified AI gateway routing across existing CLI subscriptions (Claude Pro, ChatGPT+, Gemini) for a fixed monthly cost ceiling. OpenAI-compatible API frontend.",
+    "topics": []
+  },
+  {
+    "repo": "rakshith-rm/multi-agent-openclaw-router",
+    "stars": 0,
+    "desc": "A tiny, free multi-agent demo. Three agents coordinate to answer any request, powered by NVIDIA's hosted NeMo/Nemotron models (OpenAI-compatible API).",
+    "topics": []
+  },
+  {
+    "repo": "MlkBlk-IT/ViaRoma",
+    "stars": 0,
+    "desc": "ViaRoma - Free Frontier Router. MCP + API OpenAI-compatible : egress IP jetable, sessions persistantes, cascade automatique. Catalogue honnete, dashboard Roma Aeterna.",
+    "topics": []
+  },
+  {
+    "repo": "cup113/VibeAIRouter",
+    "stars": 0,
+    "desc": "OpenAI-compatible gateway to free AI models from SiliconFlow and Gitee AI without API keys or login.",
+    "topics": [
+      "api-gateway",
+      "api-router",
+      "chinese-simplified",
+      "free",
+      "internlm-7b"
+    ]
+  },
+  {
+    "repo": "zhibushi001/freellm-hub-v2",
+    "stars": 0,
+    "desc": "\u81ea\u6258\u7ba1\u7edf\u4e00 LLM API \u7f51\u5173 \u00b7 Self-hosted unified LLM gateway \u2014 one Base URL for all your LLM keys (OpenAI/Anthropic compatible)",
+    "topics": [
+      "ai",
+      "anthropic",
+      "failover",
+      "gateway",
+      "llm"
+    ]
+  },
+  {
+    "repo": "Dugu2010/autonomous-ai-inference-router",
+    "stars": 0,
+    "desc": "Autonomous multi-provider AI inference router: task analysis, capability hard filters, free-capacity intelligence, AI-assisted (constrained) model selection, cross-provider failove",
+    "topics": []
+  },
+  {
+    "repo": "THEROCKSSS/llm-router",
+    "stars": 0,
+    "desc": "One OpenAI-compatible endpoint for every model you use \u2014 cloud APIs, free tiers, wildcard catalogs, and local models. Multi-lane LiteLLM gateway with per-agent keys, spend tracking",
+    "topics": []
+  },
+  {
+    "repo": "nullbytef0x/GatewayHub",
+    "stars": 0,
+    "desc": "Intelligent AI Gateway with multi-provider routing, automatic failover, and web dashboard. OpenAI-compatible API for free-tier AI providers.",
+    "topics": []
+  },
+  {
+    "repo": "phantomic12/token-pool",
+    "stars": 0,
+    "desc": "Self-hosted LLM routing proxy with fusion, free-provider rate limits, multi-tier routing, and WebUI. OpenAI-compatible API, 73+ providers, 3 wire formats.",
+    "topics": []
+  },
+  {
+    "repo": "bluekap/LLM-Router",
+    "stars": 0,
+    "desc": "A production-grade Python FastAPI gateway that provides a unified, OpenAI-compatible endpoint for interacting with multiple LLM providers. Designed for high availability, it manage",
+    "topics": []
+  },
+  {
+    "repo": "rachancheet/GemmaClaw-bridge",
+    "stars": 0,
+    "desc": "An OpenAI-compatible HTTP bridge for free AI inference, using the Google Gemini SDK behind the scenes. This bridge allows any application or agent framework (like OpenClaw, PicoCla",
+    "topics": []
+  },
+  {
+    "repo": "ZuziaDev/zuzia-relay",
+    "stars": 0,
+    "desc": "Zuzia Relay is a production-ready, CLI-first AI gateway for Node.js. It provides one OpenAI-compatible local endpoint for multiple AI providers, secure OAuth and API key management",
+    "topics": []
+  },
+  {
+    "repo": "felipetruman/free-llm-hub",
+    "stars": 4,
+    "desc": "\ud83c\udf1f Cat\u00e1logo unificado de 187+ APIs de LLM, motores OSS, gateways e ecossistema de IA",
+    "topics": [
+      "ai",
+      "anthropic",
+      "awesome-list",
+      "catalog",
+      "free-api"
+    ]
+  },
+  {
+    "repo": "mrtnrocks/awesome-ai-coding-on-a-budget",
+    "stars": 3,
+    "desc": "Coding on a budget. Free. Cheap.Curated list of open-source tools, free-tier strategies, and local runtimes for cost-efficient AI- assisted coding. Covers LLM model selection, API ",
+    "topics": [
+      "agentic",
+      "ai",
+      "ai-coding",
+      "ai-gateway",
+      "ai-model"
+    ]
+  },
+  {
+    "repo": "seeleeleeyiavou-cell/SeeieeA8-Gateway",
+    "stars": 2,
+    "desc": "A list of free LLM inference resources accessible via API.",
+    "topics": []
+  },
+  {
+    "repo": "nskit-io/fleet-inference-gateway",
+    "stars": 2,
+    "desc": "One process owns the GPU; everyone else is a thin client. A pattern + dependency-free reference for serving a fleet's heterogeneous inference from a single Apple-Silicon machine \u2014 ",
+    "topics": [
+      "ai-native",
+      "apple-silicon",
+      "gpu",
+      "inference",
+      "llm"
+    ]
+  },
+  {
+    "repo": "CodesbyFebin/Open-Source-Ai-Full-Stack",
+    "stars": 1,
+    "desc": "\ud83d\udee0Open Source Ai Ecosystem by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UIs, local models, inference, memory, agents, codin",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-code-review",
+      "awesome-list",
+      "chatgpt-ui"
+    ]
+  },
+  {
+    "repo": "vovalikessmoothy-png/gha-compute-cluster",
+    "stars": 0,
+    "desc": "Free LLM inference on GitHub Actions \u2014 warm-pool workers + Cloudflare API gateway. Pass a task, get an answer.",
+    "topics": []
+  }
+]
